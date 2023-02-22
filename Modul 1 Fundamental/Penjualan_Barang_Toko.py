@@ -1,3 +1,7 @@
+# JCDSOL-09
+## CAPSTONE 1
+### BARANG PENJUALAN TOKO
+#### AHMAD DANI RIFAI
 def showdata(barang): # Function menampilkan Data
     print('''
                             Daftar Barang Di Imigrasi Coffee
