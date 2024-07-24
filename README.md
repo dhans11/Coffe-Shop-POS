@@ -1,8 +1,5 @@
-Here's a README file for your Coffee Shop POS system:
-
----
-
 # Coffee Shop POS System
+---
 
 ## Overview
 
